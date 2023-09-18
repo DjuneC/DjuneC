@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Rodelin J Cesar.
 - 👀 I'm interested in *__software development__*, *__data science__* and *__Web development__*.
 - 🌱 I'm currently learning *__Machine learning algorithms__*, *__Web development__* and *__Sotfware development__*.
-- 💞️ I'm looking to collaborate on open-source software projects, freelance web design, or research initiatives.
+- 💞️ I'm looking to collaborate on *__open-source software projects__*, *__freelance web design__*, or *__research initiatives__*.
 - 📫 How to reach me: Feel free to contact me via [mail](mailto:cesarrodelin@outlook.com). I'm always open to connecting with like-minded individuals and exploring collaboration opportunities!
 
 <!---
