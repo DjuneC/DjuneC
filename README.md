@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm **Arana**<br><br>🚀 Passionate about **Software Development, Data Science, and Web Development**  <br>🌱 Currently learning **Machine Learning algorithms**, modern **Web technologies**, and **Software Engineering best practices**  <br>🤝 Open to collaborating on **open-source projects**, **freelance web development**, and **research-driven initiatives**  <br>📫 Reach me via **email** — always happy to connect and collaborate with like-minded people!<br>
+👋 Hi, I'm **Arana**<br><br>🚀 Passionate about **Software Development, Data Science, and Web Development**  <br>🌱 Currently learning **Machine Learning algorithms**, modern **Web technologies**, and **Software Engineering best practices**  <br>🤝 Open to collaborating on **open-source projects**, **freelance web development**, and **research-driven initiatives** <br>
 
 
 ## 🌐 Socials:
